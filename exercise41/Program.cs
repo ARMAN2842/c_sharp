@@ -1,5 +1,5 @@
-﻿// Пользователь вводит с клавиатуры М чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь
-// 0, 7, 8, -2, -2 -> 2
+﻿/* Пользователь вводит с клавиатуры М чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь
+0, 7, 8, -2, -2 -> 2
 
 int Prompt(string message);
 {
@@ -44,4 +44,4 @@ int Length = Prompt("Введите количество элементов >");
 int[] array;
 array = InputArray(Length);
 PrintArray(array);
-Console.WriteLine($"Количество чисел больше 0 - {CountPositiveNumbers(array)}");
+Console.WriteLine($"Количество чисел больше 0 - {CountPositiveNumbers(array)}");*/
